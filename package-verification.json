@@ -1,0 +1,13 @@
+{
+  "archive": "BanjoTooie-Upscaled-4x-1.0.0.zip",
+  "bytes": 588609494,
+  "sha256": "a3af092b2e40d2bf8ae9ffbe9a29091757daa70738c870d4518f914e429a075e",
+  "archive_crc": "passed",
+  "entry_hashes": "passed",
+  "contents": {
+    "BanjoTooie-Upscaled-4x.rtz": "1fdf6e40456fa0372fc2fe27ddcd9fca0a4c20ab3025c9dc59534bae9a789d84",
+    "source/texture-support-source.zip": "aa63a51b4eed3c0c5352bd53bcb6b8e98926b2f84ac6645d53ff8524b7a0a04d",
+    "source/texture-support.patch": "dd6af341075734f203ece23b0c42204d3142c4c32dcd9d293eed91e51c22692a"
+  },
+  "runtime_requirement": "RT64 texture-pack registration; tested local 1.0.1+textures"
+}
