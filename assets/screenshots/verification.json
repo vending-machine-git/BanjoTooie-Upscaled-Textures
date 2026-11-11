@@ -1,0 +1,13 @@
+{
+  "pairs": 8,
+  "png_integrity": "passed",
+  "archive_crc": "passed",
+  "sha256": "0b38958937debc61ab8ccbfc36e9f3cf94a5a05efbb51868b705cf605d12764d",
+  "bytes": 39428794,
+  "original_replacements": 0,
+  "upscaled_distinct_replacements": 747,
+  "maximum_selected_guest_frame_difference": 1,
+  "coverage": "Title sequence and automatic gameplay demos",
+  "preference_restored": "Upscaled 4x",
+  "owned_processes_closed": true
+}

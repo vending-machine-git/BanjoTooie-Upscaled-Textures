@@ -1,0 +1,154 @@
+[
+  {
+    "title": "Title screen and stonework",
+    "image": "01-title-and-stonework.png",
+    "scene": 0,
+    "original_frame_range": [
+      560,
+      562
+    ],
+    "upscaled_frame_range": [
+      560,
+      562
+    ],
+    "crop": [
+      0,
+      110,
+      1600,
+      790
+    ]
+  },
+  {
+    "title": "Jungle path and stone steps",
+    "image": "02-jungle-stone-steps.png",
+    "scene": 1,
+    "original_frame_range": [
+      418,
+      421
+    ],
+    "upscaled_frame_range": [
+      417,
+      420
+    ],
+    "crop": [
+      0,
+      0,
+      1600,
+      900
+    ]
+  },
+  {
+    "title": "Giant egg and nest",
+    "image": "03-giant-egg-and-nest.png",
+    "scene": 1,
+    "original_frame_range": [
+      738,
+      741
+    ],
+    "upscaled_frame_range": [
+      737,
+      740
+    ],
+    "crop": [
+      0,
+      0,
+      1600,
+      900
+    ]
+  },
+  {
+    "title": "Dinosaur close-up",
+    "image": "04-dinosaur-close-up.png",
+    "scene": 2,
+    "original_frame_range": [
+      344,
+      347
+    ],
+    "upscaled_frame_range": [
+      343,
+      346
+    ],
+    "crop": [
+      0,
+      0,
+      1600,
+      900
+    ]
+  },
+  {
+    "title": "Snow and character textures",
+    "image": "05-snow-and-character-textures.png",
+    "scene": 3,
+    "original_frame_range": [
+      81,
+      84
+    ],
+    "upscaled_frame_range": [
+      80,
+      83
+    ],
+    "crop": [
+      0,
+      0,
+      1600,
+      900
+    ]
+  },
+  {
+    "title": "Cliffside spell and water",
+    "image": "06-cliffside-spell.png",
+    "scene": 3,
+    "original_frame_range": [
+      321,
+      325
+    ],
+    "upscaled_frame_range": [
+      320,
+      324
+    ],
+    "crop": [
+      0,
+      0,
+      1600,
+      900
+    ]
+  },
+  {
+    "title": "Fire temple stonework",
+    "image": "07-fire-temple-stonework.png",
+    "scene": 5,
+    "original_frame_range": [
+      452,
+      454
+    ],
+    "upscaled_frame_range": [
+      451,
+      454
+    ],
+    "crop": [
+      0,
+      0,
+      1600,
+      900
+    ]
+  },
+  {
+    "title": "Lava platforms",
+    "image": "08-lava-platforms.png",
+    "scene": 5,
+    "original_frame_range": [
+      692,
+      694
+    ],
+    "upscaled_frame_range": [
+      691,
+      693
+    ],
+    "crop": [
+      0,
+      0,
+      1600,
+      900
+    ]
+  }
+]
